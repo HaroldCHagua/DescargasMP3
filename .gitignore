@@ -1,0 +1,7 @@
+
+# Archivos generados por Android
+.gradle/
+**/build/
+local.properties
+*.apk
+*.aab
